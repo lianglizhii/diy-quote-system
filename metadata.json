@@ -1,0 +1,5 @@
+{
+  "name": "Benbao EV Quote Manager",
+  "description": "Professional quotation management system for Benbao Electric Vehicles. Features product inventory management, multi-language support powered by Gemini, and export capabilities.",
+  "requestFramePermissions": []
+}
